@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8de81f40-1702-4312-b807-bb2892e8fadc" name="Default Changelist" comment="flask commit" />
+    <list default="true" id="8de81f40-1702-4312-b807-bb2892e8fadc" name="Default Changelist" comment="flask commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619147844213</updated>
       <workItem from="1619147845269" duration="8243000" />
+      <workItem from="1619205439459" duration="1220000" />
     </task>
     <task id="LOCAL-00001" summary="flask commit">
       <created>1619190448508</created>
@@ -87,6 +90,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="flask commit" />

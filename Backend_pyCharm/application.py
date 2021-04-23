@@ -102,6 +102,7 @@ def searchPlayer(name):
 
 @application.route('/bestTeam', methods =["GET"])
 def getBestTeam():
+    print("gg.....")
     team = bestTeam()
     return json.dumps(team, indent=2)
 
